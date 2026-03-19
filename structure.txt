@@ -1,0 +1,9 @@
+frontend/
+├── index.html              # Student quiz interface
+├── teacher-dashboard.html  # Teacher analytics view
+├── vercel.json             # Vercel routing configuration
+├── js/
+│   ├── api.js              # Backend API client
+│   ├── student.js          # Student view logic
+│   └── dashboard.js        # Teacher dashboard logic
+└── README.md               # This file
